@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "E-commerce-api",
+ 
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/"
+    }
+  ]
+}
